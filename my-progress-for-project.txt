@@ -1,0 +1,5 @@
+Imported small model for Sample Testing
+
+Completed the creating embeddings, worked on sample query and configured the Global .env for vars management.
+
+On Track to the Working on E2E kind of PDF analyzer.
